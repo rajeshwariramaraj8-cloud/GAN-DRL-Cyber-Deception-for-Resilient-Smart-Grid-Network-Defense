@@ -1,0 +1,32 @@
+{
+  "title": "GAN-DRL Cyber Deception for Resilient Smart-Grid Network Defense",
+  "upload_type": "software",
+  "description": "Reproducible implementation of a self-adaptive cyber deception framework for resilient smart-grid network defense. The repository includes synthetic smart-grid SCADA-IP traffic generation, GAN-based adversarial attack sample synthesis, DQN-based adaptive deception policy learning, Digital Immune Mechanism-based self-healing, baseline comparison, ablation analysis, statistical evaluation, and reproducible figure generation.",
+  "creators": [
+    {
+      "name": "Ramaraj, Rajeshwari",
+      "affiliation": "Department of Computer Science and Engineering, Panimalar Engineering College, Chennai, India"
+    },
+    {
+      "name": "Govindasamy, Umarani",
+      "affiliation": "Department of Computer Science and Engineering, Panimalar Engineering College, Chennai, India"
+    }
+  ],
+  "keywords": [
+    "Cyber Deception",
+    "Deep Reinforcement Learning",
+    "Generative Adversarial Networks",
+    "Deep Q-Network",
+    "Smart Grid Security",
+    "Adversarial Environment Simulation",
+    "Digital Immune Mechanism",
+    "Autonomous Cyber Defense",
+    "Intrusion Detection",
+    "Network Resilience"
+  ],
+  "access_right": "open",
+  "language": "eng",
+  "version": "1.0.0",
+  "communities": [],
+  "notes": "This archived software package supports reproducibility of the experimental pipeline described in the associated manuscript. The primary dataset is generated synthetically by the repository scripts. Public datasets CICIDS2017 and UNSW-NB15 are referenced only for benchmark alignment and are not redistributed with this archive."
+}
